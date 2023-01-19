@@ -7,7 +7,7 @@
     tools:context=".SplashActivity"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="#000">
+    android:background="#EFE7BB">
 
     <com.firstapplication.clothify.GifImageView
         android:layout_width="200dp"
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:text="CLOTHIFY"
         android:layout_marginTop="40dp"
-        android:textColor="#fff"
+        android:textColor="#000"
         android:textSize="24sp"
 
         />
